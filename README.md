@@ -47,6 +47,7 @@ I am currently open to work and employment opportunities (remote or relocation).
 ### GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ns-noman&show_icons=true&theme=dark&count_private=true)
+<br>
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ns-noman&layout=compact&theme=dark)
 
 ---
