@@ -46,11 +46,11 @@ I am currently open to work and employment opportunities (remote or relocation).
 
 ### GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark&count_private=true)  
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ns-noman&show_icons=true&theme=dark&count_private=true)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ns-noman&layout=compact&theme=dark)
 
 ---
 
 ### Find me on
 
-[LinkedIn](https://www.linkedin.com/in/yourprofile) | [Twitter](https://twitter.com/yourprofile) | [Facebook](https://www.facebook.com/nowab.shorifnoman)
+[LinkedIn](https://www.linkedin.com/in/nowab-shorif) | [Twitter](https://x.com/nsa_noman) | [Facebook](https://www.facebook.com/nowab.shorif.al.noman)
