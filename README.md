@@ -35,7 +35,7 @@ I am currently open to work and employment opportunities (remote or relocation).
 
 - 🌱 I am constantly learning and exploring new technologies.  
 - 💻 I build **software, web applications, and APIs**, and work with **database systems**.  
-- 🎧 I love to read books, listen to music, cook, sing, and travel on my motorcycle.  
+- 🎧 I love to read books, listen to music, cook, sing, and travel.  
 - ✉️ You can reach me at: [nsanoman@gmail.com](mailto:nsanoman@gmail.com)  
 
 ---
